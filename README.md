@@ -1,6 +1,7 @@
+
 # OpenWallpaper
  Open-source wallpaper engine that allows you to set video as your desktop background.
-![](showcase1.mp4)
+![showcase](https://user-images.githubusercontent.com/69095444/115998458-9c1b5f00-a5e7-11eb-95bd-5c2e37774433.gif)
 
 # Building
 1. To build this solution you should have Visual Studio 2019.
@@ -11,3 +12,6 @@ If VS19 doesn't install nuget packages automatically, just go to **Project -> Ma
 (This project have some unused/almost unused nuget packages installed, i will clean all this someday)
 
 You also can get **LibVLCSharp.Shared.VLCException**, in that case just Clean project and rebuild it.
+
+
+
