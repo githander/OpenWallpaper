@@ -1,5 +1,5 @@
 
-# OpenWallpaper
+# OpenWallpaper | [Releases](https://github.com/0xC34E/OpenWallpaper/releases)
 ![showcase](https://user-images.githubusercontent.com/69095444/115998458-9c1b5f00-a5e7-11eb-95bd-5c2e37774433.gif)
 
  OpenWallpaper is open-source wallpaper engine that allows you to set video as your desktop background.
