@@ -1,0 +1,17 @@
+OpenWallpaper.exe
+System.Runtime.CompilerServices.Unsafe.dll
+AngleSharp.dll
+libvideo.dll
+LibVLCSharp.dll
+LibVLCSharp.WinForms.dll
+Microsoft.Bcl.AsyncInterfaces.dll
+Newtonsoft.Json.dll
+System.Buffers.dll
+System.Diagnostics.DiagnosticSource.dll
+System.Memory.dll
+System.Numerics.Vectors.dll
+System.Text.Encoding.CodePages.dll
+System.Text.Encodings.Web.dll
+System.Text.Json.dll
+System.Threading.Tasks.Extensions.dll
+System.ValueTuple.dll

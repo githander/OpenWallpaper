@@ -18,6 +18,9 @@ namespace OpenWallpaper
 
         public void Save()
         {
+            if (!Directory.Exists(Global.SAVES_PATH))
+                Directory.CreateDirectory(Global.SAVES_PATH);
+
             string json = JsonConvert.SerializeObject(this);
 
             File.WriteAllText(SETTINGS_PATH, json);
