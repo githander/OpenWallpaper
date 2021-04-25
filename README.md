@@ -9,7 +9,6 @@
  * .Net Framework 4.7.2 or above
  * Direct X
  
-
 # Building
 1. To build this solution you should have Visual Studio 2019.
 
