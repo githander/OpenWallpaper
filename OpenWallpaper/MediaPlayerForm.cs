@@ -99,11 +99,13 @@ namespace OpenWallpaper
 
         private void Player_Load(object sender, EventArgs e)
         {
+            OptimizationWorker.Start(view.MediaPlayer);
             view.MediaPlayer.Play();
         }
 
         public void Stop()
         {
+            OptimizationWorker.Stop();
             view.MediaPlayer.Stop();
             view.MediaPlayer = null;
             Close();

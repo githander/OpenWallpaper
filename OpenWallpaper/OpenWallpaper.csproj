@@ -274,6 +274,7 @@
     <Compile Include="MediaPlayerForm.Designer.cs">
       <DependentUpon>MediaPlayerForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="OptimizationWorker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings.cs" />
