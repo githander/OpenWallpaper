@@ -320,6 +320,8 @@ namespace OpenWallpaper
 
         private void CloseAppContextItem(object sender, EventArgs e)
         {
+            player.Close();
+            OptimizationWorker.Stop();
             forceExit = true;
             Application.Exit();
         }
@@ -333,6 +335,8 @@ namespace OpenWallpaper
 
         private void ExitMenuClicked(object sender, EventArgs e)
         {
+            player.Close();
+            OptimizationWorker.Stop();
             forceExit = true;
             Application.Exit();
         }
