@@ -4,9 +4,9 @@
 
  OpenWallpaper is open-source wallpaper engine that allows you to set video as your desktop background.
  
- # TODO
+ # TO-DO LIST
+ *  ~~Optimization works~~ ✔️
  * Add multiple monitors support 
- * Optimization works
  * Check if its working on Windows 7
  
  # Requirements
