@@ -16,7 +16,7 @@ namespace OpenWallpaper
         /// <summary>
         /// App version
         /// </summary>
-        public const string VERSION = "v1.1 (Beta)";
+        public const string VERSION = "v1.1.1 (Beta)";
 
         /// <summary>
         /// Path to templates directory
