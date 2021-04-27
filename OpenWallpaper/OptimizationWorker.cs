@@ -42,6 +42,7 @@ namespace OpenWallpaper
         {
             //Delay
             Thread.Sleep(100);
+            if (currentPlayer == null) return;
 
             currentPlayer.SetPause(!IsBackgroundVisible());
         }
