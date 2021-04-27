@@ -1,12 +1,12 @@
 
-# ⚙OpenWallpaper | [Lastest Release](https://github.com/0xC34E/OpenWallpaper/releases/1.0b)
+# ⚙OpenWallpaper | [Lastest Release](https://github.com/githander/OpenWallpaper/releases/tag/1.1b)
 ![showcase](https://user-images.githubusercontent.com/69095444/115998458-9c1b5f00-a5e7-11eb-95bd-5c2e37774433.gif)
 
  OpenWallpaper is open-source wallpaper engine that allows you to set video as your desktop background.
  
- # TODO
+ # TO-DO LIST
+ *  ~~Optimization works~~ ✔️
  * Add multiple monitors support 
- * Optimization works
  * Check if its working on Windows 7
  
  # Requirements
